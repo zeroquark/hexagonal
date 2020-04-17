@@ -1,4 +1,4 @@
-module hexagonal
+module github.com/zeroquark/hexagonal
 
 go 1.14
 
