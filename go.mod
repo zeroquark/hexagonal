@@ -3,6 +3,7 @@ module github.com/zeroquark/hexagonal
 go 1.14
 
 require (
+	github.com/go-chi/chi v4.1.1+incompatible
 	github.com/go-redis/redis v6.15.7+incompatible
 	github.com/niemeyer/pretty v0.0.0-20200227124842-a10e7caefd8e // indirect
 	github.com/onsi/ginkgo v1.12.0 // indirect
