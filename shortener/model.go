@@ -7,4 +7,3 @@ type Redirect struct {
 	CreatedAt	int64	`json:"created_at" bson:"created_at" msgpack:"created_at"`
 }
 
-// https://www.youtube.com/watch?v=rQnTtQZGpg8
